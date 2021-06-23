@@ -1,4 +1,4 @@
-#0x01
+# 0x01
 - 👋 Hi, I’m @DeTie
 - 👀 I’m interested in pwn
 - 🌱 I’m currently learning pwn
