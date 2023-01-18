@@ -4,4 +4,4 @@ Notes:
 2. ctfhub.com
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeTie&theme=tokyonight)]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeTie&theme=synthwave&show_icons=true)]
